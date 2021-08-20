@@ -1,0 +1,1 @@
+truffle-flattener contracts/USDL_Upgradeable.sol > flatten/USDL_Upgradeable.sol
